@@ -10,7 +10,7 @@
 [![Issues][sample-conflicts-issues-shield]][sample-conflicts-issues-url]
 [![License][sample-conflicts-license-shield]][sample-conflicts-license-url]
 
-This is the second laboratory's repository. Its objective is to practice the GIT (i.e.: Clone, Pull, Push, Commit, Stage, Checkout) commands to update shared code and solve code conflicts with GIT and GitHub between developers’ branches.
+This ism the second laboratory's repository. Its objective is to practice the GIT (i.e.: Clone, Pull, Push, Commit, Stage, Checkout) commands to update shared code and solve code conflicts with GIT and GitHub between developers’ branches.
 
 This repository is part of the data structure and algorithms (#EDA) teaching framework at Universidad de los Andes. The repository was developed by faculty professors and staff in the Department of Systems and Computer Engineer (#DISC).
 
