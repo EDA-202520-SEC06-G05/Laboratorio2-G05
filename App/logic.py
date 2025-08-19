@@ -172,6 +172,8 @@ def add_book_tags_file(catalog, booktagsfile):
     :rtype: dict
     """
     # TODO: Mods de Est-1, Est-2 y Est-3 en el Lab 2
+    catalog["book_tags"] = set.new_set()
+    return catalog 
     pass
 
 
@@ -180,6 +182,8 @@ def create_book_tag_list(catalog):
     Esta funcion crea una lista vacia para booktags.
     """
     # TODO: Mods de Est-1, Est-2 y Est-3 en el Lab 2
+    catalog["books_tags"] = set.new_set()
+    return catalog
     pass
 
 
@@ -198,6 +202,7 @@ def add_book_tag(catalog, booktag):
     # TODO: Mods de Est-1, Est-2 y Est-3 en el Lab 2
     set.add_element(catalog["book_tags"], booktag)
     return catalog
+    pass
 
 
 # Funciones de consulta
