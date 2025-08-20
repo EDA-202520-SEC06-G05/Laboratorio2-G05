@@ -40,7 +40,7 @@ Los estudiantes editan esta sección para agregar sus nombres, correos electrón
 
 1.Simon Peña Alarcon, s.penaa2@uniandes.edu.co, 202512907 .
 2.Manuel Santiago Figueroa Gomez, m.figueroag@uniandes.edu.co, 202511697.
-3.Juan Sebastian Chacon, j.chacono@uniandes.edu.co, 202513196.
+3.Juan Sebastian Chacon, j.chacono@uniandes.edu.co,202513196.
 
 [Volver al inicio](#laboratorio-2)
 
